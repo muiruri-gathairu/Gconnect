@@ -1,0 +1,16 @@
+.navbar-dark a {
+  display: block;
+  color: White;
+  font-size: 20px;
+  text-align: left;
+}
+.navbar-dark {
+  background-color: black;
+}
+h2{
+  color: chartreuse;
+}
+h3{
+  color: white;
+  background-color: red;
+}
