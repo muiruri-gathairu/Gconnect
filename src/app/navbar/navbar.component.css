@@ -1,15 +1,25 @@
 .navbar-dark a {
   display: block;
-  color: White;
+  color: rgb(19, 17, 17);
   font-size: 20px;
   text-align: left;
 }
 .navbar-dark {
-  background-color: black;
+  background-color: rgb(215, 238, 240);
 }
-h2{
-  color: chartreuse;
+
+#fff {
+  background-color: rgb(215, 238, 240);
+  width: 100%;
+  height: 15px;
+  padding: 0%;
+  margin: 0;
 }
-h3{
+
+h3,p{
   padding-left: 70px;
+}
+
+#RD {
+  color: red;
 }
